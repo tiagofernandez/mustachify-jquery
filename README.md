@@ -1,3 +1,3 @@
 # Mustachify jQuery
 
-Introduction about jQuery Mobile.
+Introduction to jQuery Mobile.
